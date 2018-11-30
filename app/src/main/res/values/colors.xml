@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#09af00</color>
+    <color name="colorPrimaryDark">#008b00</color>
+    <color name="colorAccent">#40c4ff</color>
+    <color name="backgroundOfPopUp">#09af00</color>
+    <color name="colorItem">#FFFFFF</color>
+    <color name="color_error">#FF5252</color>
+    <color name="button_raised_background">#ff9e22</color>
+    <color name="button_raised_text_color">#FFFFFF</color>
+    <color name="progressbar_color">#ba00e5</color>
+    <color name="alert_dialog_color">#FF5252</color>
+    <color name="color_bottom_navigation">#dd0074</color>
+    <color name="light_navigation_background">#f5b6da</color>
+
+</resources>

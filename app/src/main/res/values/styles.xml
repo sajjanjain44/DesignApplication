@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="popupTheme">@style/popupTheme</item>
+    </style>
+    
+    <style name="popupTheme" parent="Theme.AppCompat.Light">
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorItem</item>
+    </style>
+
+    <style name="CharacterOverflow">
+        <item name="android:textColor">@color/color_error</item>
+    </style>
+
+    <style name="raisedButtonColor" parent="Widget.AppCompat.Button.Colored">
+        <item name="backgroundTint">@color/button_raised_background</item>
+        <item name="android:textColor">@color/button_raised_text_color</item>
+
+    </style>
+
+    <style name="FlatButtonColor" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">@color/button_raised_background</item>
+    </style>
+
+    <style name="ProgressBarColor" parent="Widget.AppCompat.ProgressBar">
+        <item name="colorAccent">@color/progressbar_color</item>
+    </style>
+
+    <style name="bottomNavigationTheme" parent="Widget.Design.NavigationView">
+        <item name="colorPrimary">@color/color_bottom_navigation</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DesignApplication</string>
+    <string name="item1">item1</string>
+    <string name="item3">item3</string>
+    <string name="item2">item2</string>
+    <string name="myimage">MyImage</string>
+    <string name="john_doe">John Doe</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent_mail">Sent Mail</string>
+    <string name="drafts">drafts</string>
+    <string name="all_mail">All Mail</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
+    <string name="sub_header">Sub Header</string>
+    <string name="open_drawer">Opem Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="raised_button">RAISED BUTTON</string>
+    <string name="flat_button">FLAT BUTTON</string>
+    <string name="near_by">Near By</string>
+    <string name="recents">Recents</string>
+    <string name="favourates">Favourates</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
